@@ -1,7 +1,5 @@
 package com.example.weatherapp;
 
-import com.fasterxml.jackson.annotation.JsonProperty;
-
 public class WeatherResponse {
     private Coord coord;
     private Weather[] weather;
